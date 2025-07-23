@@ -9,9 +9,14 @@ b2.You will need to install the following packages if you do not use the install
 
 # Packages
 1.hyprland
+<br>
 2.hyprpaper
+<br>
 3.hyprpanel
+<br>
 4.hyprmenu
+<br>
 5.fish shell
+<br>
 6.kitty terminal emulater
 
